@@ -91,6 +91,10 @@ Coming Soon...
  - FSTA-SNN:Frequency-Based Spatial-Temporal Attention Module for Spiking Neural Networks (AAAI'2025)
  - Spiking Point Transformer for Point Cloud Classification (AAAI'2025)
  - Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer (CVPR'2025)
+ - Decision spikeformer: Spike-driven transformer for decision making (CVPR'2025)
+ - Spiking transformer with spatial-temporal attention (CVPR'2025)
+ - STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks (CVPR'2025)
+ - Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers (CVPR'2025)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
  - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
@@ -126,6 +130,7 @@ Coming Soon...
  - SpikingYOLOX: Improved YOLOX Object Detection with Fast Fourier Convolution and Spiking Neural Networks (AAAI'2025)
  - CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics (AAAI'2025)
  - Efficient 3D Recognition with Event-driven Spike Sparse Convolution (AAAI'2025)
+ - Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection (CVPR'2025)
 
 ### Spike-driven MLP
 
@@ -178,6 +183,8 @@ Coming Soon...
  - EnOF-SNN: Training Accurate Spiking Neural Networks via Enhancing the Output Feature (NIPS'2024)
  - SpikedAttention: Training-Free and Fully Spike-Driven Transformer-to-SNN Conversion with Winner-Oriented Spike Shift for Softmax Operation (NIPS'2024)
  - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (AAAI'2025)
+ - Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement (CVPR'2025)
+ - Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks (CVPR'2025)
 
 ### Bio-inspired Neuron Optimization
 
@@ -259,6 +266,7 @@ Coming Soon...
  - RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding (MM'2024)
  - FEEL-SNN: Robust Spiking Neural Networks with Frequency Encoding and Evolutionary Leak Factor (NIPS'2024)
  - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks (CVPR'2024)
+ - Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients (CVPR'2025)
 
 ### Continual Learning with Spiking Neural Networks
 

@@ -10,7 +10,7 @@ This repository collected papers on brain-inspired systems published in influent
  - [x] ICLR 2025
  - [x] AAAI 2025
  - [ ] IJCAI 2025
- - [ ] ICCV 2025
+ - [x] CVPR 2025
  - [ ] MM 2025
  - [ ] ICML 2025
  - [ ] NIPS 2025

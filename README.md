@@ -90,10 +90,12 @@ Coming Soon...
  - Advancing Spiking Neural Networks Towards Multiscale Spatiotemporal Interaction Learning (AAAI'2025)
  - FSTA-SNN:Frequency-Based Spatial-Temporal Attention Module for Spiking Neural Networks (AAAI'2025)
  - Spiking Point Transformer for Point Cloud Classification (AAAI'2025)
+ - Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer (CVPR'2025)
  - Quantized Spike-driven Transformer (ICLR'2025)
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
  - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
  - Spikellm: Scaling up spiking neural network to large language models via saliency-based spiking (ICLR'2025)
+
 
 ### Spiking Recurrent Neural Network
  

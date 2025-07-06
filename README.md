@@ -1,6 +1,6 @@
-# Awesome-Brain-Inspired-System
+# Edge Intelligence with Spiking Neural Networks
 
-This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2024. You can add more related papers by pulling the request. 😊
+This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2025. You can add more related papers by pulling the request. 😊
 
 **Suggested follow-up research sequence for future contributors**: 
   - AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV

@@ -4,6 +4,8 @@ This repository collected papers on brain-inspired systems published in influent
 
 This is the official repository for our submitted survey titled "Edge Intelligence with Spiking Neural Networks", which collected papers published in influential conferences (_AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV_) from 2021 to 2025 and included in this survey.
 
+These papers show valuable insights towards implementing intelligence services on edge devices.
+
 
 ## TODO List
 

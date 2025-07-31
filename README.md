@@ -38,11 +38,6 @@ This is the official repository for our submitted survey titled "Edge Intelligen
 
 ### Network Architecture Search
 
-| Paper       | Venue       | Year       |
-|----------|----------|----------|
-| Neural Architecture Search for Spiking Neural Networks  | ECCV  | 2022  |
-| AutoSNN: Towards Energy-Efficient Spiking Neural Networks  | ICML  | ICML  |
-
  - Neural Architecture Search for Spiking Neural Networks (ECCV'2022)
  - AutoSNN: Towards Energy-Efficient Spiking Neural Networks (ICML'2022)
  - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons (NIPS'2022)

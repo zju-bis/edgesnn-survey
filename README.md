@@ -2,8 +2,8 @@
 
 This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2025. You can add more related papers by pulling the request. 😊
 
-**Suggested follow-up research sequence for future contributors**: 
-  - AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV
+This is the official repository for our submitted survey titled "Edge Intelligence with Spiking Neural Networks", which collected papers published in influential conferences (_AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV_) from 2021 to 2025 and included in this survey.
+
 
 ## TODO List
 
@@ -12,15 +12,11 @@ This repository collected papers on brain-inspired systems published in influent
  - [ ] IJCAI 2025
  - [x] CVPR 2025
  - [ ] MM 2025
- - [ ] ICML 2025
+ - [x] ICML 2025
  - [ ] NIPS 2025
  - [ ] ECCV 2025
 
-## System-related Paper
-
-Coming Soon...
-
-## AI-related Paper
+## Content 
 
  - [Network Architecture Search](#network-architecture-search)
  - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
@@ -41,6 +37,11 @@ Coming Soon...
  - [Solver with Spiking Neural Networks](#Solver-with-Spiking-Neural-Networks)
 
 ### Network Architecture Search
+
+| Paper       | Venue       | Year       |
+|----------|----------|----------|
+| Neural Architecture Search for Spiking Neural Networks  | ECCV  | 2022  |
+| AutoSNN: Towards Energy-Efficient Spiking Neural Networks  | ICML  | ICML  |
 
  - Neural Architecture Search for Spiking Neural Networks (ECCV'2022)
  - AutoSNN: Towards Energy-Efficient Spiking Neural Networks (ICML'2022)

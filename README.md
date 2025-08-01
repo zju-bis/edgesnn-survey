@@ -36,7 +36,7 @@ These papers show valuable insights towards implementing intelligence services o
  - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
  - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
  - [Inference Acceleration](#Inference-Acceleration)
- - [Solver with Spiking Neural Networks](#Solver-with-Spiking-Neural-Networks)
+ - [Interesting Works](#Interesting-Works)
 
 ### Network Architecture Search
 
@@ -58,6 +58,7 @@ These papers show valuable insights towards implementing intelligence services o
   - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
   - Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (AAAI'2025)
   - Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising (AAAI'2025)
+  - Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph (ICML'2025)
 
 ### Spiking Attention Mechanism
 
@@ -97,7 +98,10 @@ These papers show valuable insights towards implementing intelligence services o
  - SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks (ICLR'2025)
  - Spiking Vision Transformer with Saccadic Attention (ICLR'2025)
  - Spikellm: Scaling up spiking neural network to large language models via saliency-based spiking (ICLR'2025)
-
+ - SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and O(T) Complexity (ICML'2025)
+ - SpikF: Spiking Fourier Network for Efficient Long-term Prediction (ICML'2025)
+ - Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model (ICML'2025)
+ - Hybrid Spiking Vision Transformer for Object Detection with Event Cameras (ICML'2025)
 
 ### Spiking Recurrent Neural Network
  
@@ -159,6 +163,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Q-SNNs: Quantized Spiking Neural Networks (MM'2024)
  - Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency (ICLR'2025)
  - QP-SNN: Quantized and Pruned Spiking Neural Networks (ICLR'2025)
+ - ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks (ICML'2025)
 
 ### ANN2SNN
 
@@ -183,6 +188,11 @@ These papers show valuable insights towards implementing intelligence services o
  - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (AAAI'2025)
  - Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement (CVPR'2025)
  - Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks (CVPR'2025)
+ - Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation (ICML'2025)
+ - TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer (ICML'2025)
+ - Efficient ANN-SNN Conversion with Error Compensation Learning (ICML'2025)
+ - Differential Coding for Training-Free ANN-to-SNN Conversion (ICML'2025)
+ - Temporal Misalignment in ANN-SNN Conversion and its Mitigation via Probabilistic Spiking Neurons (ICML'2025)
 
 ### Bio-inspired Neuron Optimization
 
@@ -239,6 +249,8 @@ These papers show valuable insights towards implementing intelligence services o
  - Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks (NIPS'2024)
  - Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism (AAAI'2025)
  - DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks (ICLR'2025)
+ - TS-SNN: Temporal Shift Module for Spiking Neural Networks (ICML'2025)
+ - Training High Performance Spiking Neural Network by Temporal Model Calibration (ICML'2025)
 
 ### Hybrid Learning
 
@@ -274,6 +286,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning (AAAI'2024)
  - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks (ICLR'2024)
  - ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (AAAI'2025)
+ - Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning (ICML'2025)
 
 ### Online Learning with Spiking Neural Networks
 
@@ -291,6 +304,9 @@ These papers show valuable insights towards implementing intelligence services o
  - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (ICML'2024)
  - EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices (IJCAI'2024)
  - Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness (ICLR'2025)
+ - Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity (ICML'2025)
+ - Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment (ICML'2025)
 
-### Solver with Spiking Neural Networks
+### Interesting Works
   - Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (NIPS'2024)
+  - Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time (ICML'2025)

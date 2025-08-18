@@ -35,7 +35,7 @@ These papers show valuable insights towards implementing intelligence services o
  - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
  - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
  - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
- - [Inference Acceleration](#Acceleration)
+ - [Acceleration](#Acceleration)
  - [Interesting Works](#Interesting-Works)
 
 ### Network Architecture Search

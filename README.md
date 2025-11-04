@@ -11,7 +11,7 @@ These papers show valuable insights towards implementing intelligence services o
 
  - [x] ICLR 2025
  - [x] AAAI 2025
- - [ ] IJCAI 2025
+ - [x] IJCAI 2025
  - [x] CVPR 2025
  - [ ] MM 2025
  - [x] ICML 2025

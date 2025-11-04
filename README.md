@@ -13,7 +13,7 @@ These papers show valuable insights towards implementing intelligence services o
  - [x] AAAI 2025
  - [x] IJCAI 2025
  - [x] CVPR 2025
- - [ ] MM 2025
+ - [x] MM 2025
  - [x] ICML 2025
  - [ ] NIPS 2025
  - [ ] ECCV 2025
@@ -22,7 +22,7 @@ These papers show valuable insights towards implementing intelligence services o
 
  - [Network Architecture Search](#network-architecture-search)
  - [Spiking Graph Neural Network](#Spiking-Graph-Neural-Network)
- - [Spiking Attention Mechanism](#Spiking-Attention-Mechanism)
+ - [Spiking Attention Mechanism](#Spiking-Attention-Mechanism-with-Transformer-Architecture)
  - [Spiking Recurrent Neural Network](#Spiking-Recurrent-Neural-Network)
  - [Spiking Convolutional Neural Network](#Spiking-Convolutional-Neural-Network)
  - [Spike-driven MLP](#Spike-driven-MLP)
@@ -60,8 +60,9 @@ These papers show valuable insights towards implementing intelligence services o
   - Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (AAAI'2025)
   - Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising (AAAI'2025)
   - Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph (ICML'2025)
+  - Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics (MM'2025)
 
-### Spiking Attention Mechanism
+### Spiking Attention Mechanism with Transformer Architecture
 
  - Spiking Transformers for Event-based Single Object Tracking (CVPR'2022)
  - Spike Transformer: Monocular Depth Estimation for Spiking Camera (ECCV'2022)
@@ -107,6 +108,9 @@ These papers show valuable insights towards implementing intelligence services o
  - Binary Event-Driven Spiking Transformer (IJCAI'2025)
  - Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks (IJCAI'2025)
  - MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion (IJCAI'2025)
+ - Temporal-coded Spiking Transformer (MM'2025)
+ - Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer (MM'2025)
+ - SGM-Transformer: Rethinking Gradient Information Loss and Compensation in Spiking Neural Networks (MM'2025)
 
 ### Spiking Recurrent Neural Network
  
@@ -225,6 +229,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective (ICLR'2025)
  - P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks (ICLR'2025)
  - ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks (IJCAI'2025)
+ - Incorporating the Refractory Period into Spiking Neural Networks through Spike-Triggered Threshold Dynamics (MM'2025)
 
 ### Bio-inspired Training Loss Optimization
 
@@ -272,6 +277,7 @@ These papers show valuable insights towards implementing intelligence services o
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
  - Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation (IJCAI'2025)
  - ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks (IJCAI'2025)
+ - Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for Imbalanced Multi-Modal Learning (MM'2025)
 
 ### Adversarial Spiking Neural Networks
 

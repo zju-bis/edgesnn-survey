@@ -35,6 +35,7 @@ These papers show valuable insights towards implementing intelligence services o
  - [Adversarial Spiking Neural Networks](#Adversarial-Spiking-Neural-Networks)
  - [Continual Learning with Spiking Neural Networks](#Continual-Learning-with-Spiking-Neural-Networks)
  - [Online Learning with Spiking Neural Networks](#Online-Learning-with-Spiking-Neural-Networks)
+ - [Federated Learning with Spiking Neural Networks](#Federated-Learning-with-Spiking-Neural-Networks)
  - [Acceleration](#Acceleration)
  - [Interesting Works](#Interesting-Works)
 
@@ -102,6 +103,10 @@ These papers show valuable insights towards implementing intelligence services o
  - SpikF: Spiking Fourier Network for Efficient Long-term Prediction (ICML'2025)
  - Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model (ICML'2025)
  - Hybrid Spiking Vision Transformer for Object Detection with Event Cameras (ICML'2025)
+ - SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos (IJCAI'2025)
+ - Binary Event-Driven Spiking Transformer (IJCAI'2025)
+ - Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks (IJCAI'2025)
+ - MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion (IJCAI'2025)
 
 ### Spiking Recurrent Neural Network
  
@@ -133,6 +138,7 @@ These papers show valuable insights towards implementing intelligence services o
  - CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics (AAAI'2025)
  - Efficient 3D Recognition with Event-driven Spike Sparse Convolution (AAAI'2025)
  - Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection (CVPR'2025)
+ - SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain (IJCAI'2025)
 
 ### Spike-driven MLP
 
@@ -193,6 +199,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Efficient ANN-SNN Conversion with Error Compensation Learning (ICML'2025)
  - Differential Coding for Training-Free ANN-to-SNN Conversion (ICML'2025)
  - Temporal Misalignment in ANN-SNN Conversion and its Mitigation via Probabilistic Spiking Neurons (ICML'2025)
+ - A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes (IJCAI'2025)
 
 ### Bio-inspired Neuron Optimization
 
@@ -217,6 +224,7 @@ These papers show valuable insights towards implementing intelligence services o
  - TS-LIF: A Temporal Segment Spiking Neuron Network For Time Series Forecasting (ICLR'2025)
  - Rethinking Spiking Neural Networks from an Ensemble Learning Perspective (ICLR'2025)
  - P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks (ICLR'2025)
+ - ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks (IJCAI'2025)
 
 ### Bio-inspired Training Loss Optimization
 
@@ -251,6 +259,7 @@ These papers show valuable insights towards implementing intelligence services o
  - DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks (ICLR'2025)
  - TS-SNN: Temporal Shift Module for Spiking Neural Networks (ICML'2025)
  - Training High Performance Spiking Neural Network by Temporal Model Calibration (ICML'2025)
+ - Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics (IJCAI'2025)
 
 ### Hybrid Learning
 
@@ -261,6 +270,8 @@ These papers show valuable insights towards implementing intelligence services o
  - Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks (MM'2024)
  - Spiking Neural Network as Adaptive Event Stream Slicer (NIPS'2024)
  - SFOD: Spiking Fusion Object Detector (CVPR'2024)
+ - Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation (IJCAI'2025)
+ - ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks (IJCAI'2025)
 
 ### Adversarial Spiking Neural Networks
 
@@ -294,6 +305,9 @@ These papers show valuable insights towards implementing intelligence services o
  - NDOT: Neuronal Dynamics-based Online Training for Spiking Neural Networks (ICML'2024)
  - Continuous Spatiotemporal Events Decoupling through Spike-based Bayesian Computation (NIPS'2024)
 
+### Federated Learning with Spiking Neural Networks
+ - Exploiting Label Skewness for Spiking Neural Networks in Federated Learning (IJCAI'2025)
+
 ### Acceleration
 
  - DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks (ICCV'2021)
@@ -310,3 +324,4 @@ These papers show valuable insights towards implementing intelligence services o
 ### Interesting Works
   - Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover (NIPS'2024)
   - Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time (ICML'2025)
+  - Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing (IJCAI'2025)

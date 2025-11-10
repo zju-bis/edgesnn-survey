@@ -198,6 +198,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (AAAI'2025)
  - Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement (CVPR'2025)
  - Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks (CVPR'2025)
+ - Inference-Scale Complexity in ANN-SNN Conversion for High-Performance and Low-Power Applications (CVPR'2025)
  - Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation (ICML'2025)
  - TTFSFormer: A TTFS-based Lossless Conversion of Spiking Transformer (ICML'2025)
  - Efficient ANN-SNN Conversion with Error Compensation Learning (ICML'2025)

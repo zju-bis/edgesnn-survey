@@ -1,6 +1,6 @@
 # Edge Intelligence with Spiking Neural Networks
 
-This repository collected papers on brain-inspired systems published in influential conferences from 2021 to 2025. You can add more related papers by pulling the request. 😊
+This repository collects papers on brain-inspired systems published in influential conferences from 2021 to 2025. You can add more related papers by pulling the request. 😊
 
 This is the official repository for our submitted survey titled "Edge Intelligence with Spiking Neural Networks", which collected papers published in influential conferences (_AAAI, ICLR, CVPR, ICCV, IJCAI, MM, ICML, NIPS, ECCV_) from 2021 to 2025 and included in this survey.
 
@@ -15,7 +15,7 @@ These papers show valuable insights towards implementing intelligence services o
  - [x] CVPR 2025
  - [x] MM 2025
  - [x] ICML 2025
- - [ ] NIPS 2025
+ - [x] NIPS 2025
  - [ ] ECCV 2025
 
 ## Content 
@@ -57,7 +57,7 @@ These papers show valuable insights towards implementing intelligence services o
   - Dynamic Reactive Spiking Graph Neural Network (AAAI'2024)
   - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (ICML'2024)
   - Spiking Graph Neural Network on Riemannian Manifolds (NIPS'2024)
-  - Leveraging Asynchronous Spiking Neural Networks for Ultra Efficient Event-Based Visual Processing (AAAI'2025)
+  - Leveraging Asynchronous Spiking Neural Networks for Ultra-Efficient Event-Based Visual Processing (AAAI'2025)
   - Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising (AAAI'2025)
   - Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph (ICML'2025)
   - Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics (MM'2025)
@@ -111,6 +111,8 @@ These papers show valuable insights towards implementing intelligence services o
  - Temporal-coded Spiking Transformer (MM'2025)
  - Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer (MM'2025)
  - SGM-Transformer: Rethinking Gradient Information Loss and Compensation in Spiking Neural Networks (MM'2025)
+ - Toward Relative Positional Encoding in Spiking Transformers (NIPS'2025)
+ - Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks (NIPS'2025)
 
 ### Spiking Recurrent Neural Network
  
@@ -245,6 +247,7 @@ These papers show valuable insights towards implementing intelligence services o
  - Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning (AAAI'2024)
  - An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain (AAAI'2024)
  - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals (NIPS'2024)
+ - MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks (NIPS'2025)
 
 ### Surrogate Gradient Optimization
 

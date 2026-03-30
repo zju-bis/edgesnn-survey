@@ -49,11 +49,13 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Network Architecture Search
 
 <details><summary>Click to expand related papers</summary>
+ 
  - Neural Architecture Search for Spiking Neural Networks (ECCV'2022)
  - AutoSNN: Towards Energy-Efficient Spiking Neural Networks (ICML'2022)
  - Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons (NeurIPS'2022)
  - Differentiable hierarchical and surrogate gradient search for spiking neural networks (NeurIPS'2022)
  - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (AAAI'2023)
+
 </details>
 
 ---
@@ -61,6 +63,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Spiking Graph Neural Network
 
 <details><summary>Click to expand related papers</summary>
+ 
   - Exploiting Spiking Dynamics with Spatial-temporal Feature Normalization in Graph Learning (IJCAI'2021)
   - Spiking Graph Convolutional Networks (IJCAI'2022)
   - Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (AAAI'2023)
@@ -74,6 +77,8 @@ The survey systematically reviews SNN works published in top conferences, includ
   - Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph (ICML'2025)
   - Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics (MM'2025)
   - Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives (NeurIPS'2025)
+
+
 </details>
 
 ---
@@ -81,6 +86,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Spiking Attention Mechanism with Transformer Architecture
 
 <details><summary>Click to expand related papers</summary>
+ 
  - Spiking Transformers for Event-based Single Object Tracking (CVPR'2022)
  - Spike Transformer: Monocular Depth Estimation for Spiking Camera (ECCV'2022)
  - Spikformer: when spiking neural network meets transformer (ICLR'2023)
@@ -192,6 +198,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Spike-driven MLP
 
 <details><summary>Click to expand related papers</summary>
+ 
  - Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck (NeurIPS'2021)
  - Brain-inspired Multilayer Perceptron with Spiking Neurons (CVPR'2022)
  - Event-based Video Reconstruction via Potential-assisted Spiking Neural Network (CVPR'2022)
@@ -215,10 +222,11 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Lightweight Spiking Neural Networks
 
 <details><summary>Click to expand related papers</summary>
+ 
  - Towards Ultra Low Latency Spiking Neural Networks for Vision and Sequential Tasks Using Temporal Pruning (ECCV'2022)
  - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks (ECCV'2022)
  - State Transition of Dendritic Spines Improves Learning of Sparse Spiking Neural Networks (ICML'2022)
- - towards energy efficient spiking neural networks: an unstructured pruning framework (ICLR'2024)
+ - Towards energy-efficient spiking neural networks: an unstructured pruning framework (ICLR'2024)
  - sparse spiking neural network: exploring heterogeneity in time scales for pruning recurrent SNN (ICLR'2024)
  - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization (IJCAI'2024)
  - Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity-based Pruning (ICML'2024)
@@ -402,6 +410,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 ### Continual Learning with Spiking Neural Networks
 
 <details><summary>Click to expand related papers</summary>
+ 
  - Training Spiking Neural Networks with Local Tandem Learning (NeurIPS'2022)
  - Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks (IJCAI'2023)
  - A progressive training framework for spiking neural networks with a learnable multi-hierarchical model (ICLR'2023)

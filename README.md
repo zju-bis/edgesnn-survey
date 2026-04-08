@@ -11,14 +11,12 @@ The survey systematically reviews SNN works published in top conferences, includ
 
 ## ✅ Coverage (2025)
 
-- [x] ICLR 2025  
-- [x] AAAI 2025  
-- [x] IJCAI 2025  
-- [x] CVPR 2025  
-- [x] MM 2025  
-- [x] ICML 2025  
-- [x] NeurIPS 2025  
-- [x] ICCV 2025  
+- [ ] ICLR 2026  
+- [x] AAAI 2026   
+- [ ] CVPR 2026  
+- [ ] MM 2026  
+- [ ] ICML 2026  
+- [ ] NeurIPS 2026  
 
 ---
 
@@ -32,9 +30,8 @@ The survey systematically reviews SNN works published in top conferences, includ
 - [Spike-driven MLP](#spike-driven-mlp)  
 - [Lightweight Spiking Neural Networks](#lightweight-spiking-neural-networks)  
 - [ANN2SNN Conversion](#ann2snn-conversion)  
-- [Bio-inspired Neuron Optimization](#bio-inspired-neuron-optimization)  
-- [Bio-inspired Training Loss Optimization](#bio-inspired-training-loss-optimization)  
-- [Surrogate Gradient Optimization](#surrogate-gradient-optimization)  
+- [Spiking Neuron Optimization](#spiking-neuron-optimization)  
+- [Training Optimization](#training-optimization)  
 - [Hybrid Learning](#hybrid-learning)  
 - [Adversarial Spiking Neural Networks](#adversarial-spiking-neural-networks)  
 - [Continual Learning with Spiking Neural Networks](#continual-learning-with-spiking-neural-networks)  
@@ -77,6 +74,7 @@ The survey systematically reviews SNN works published in top conferences, includ
   - Delay-DSGN: A Dynamic Spiking Graph Neural Network with Delay Mechanisms for Evolving Graph (ICML'2025)
   - Signal-SGN: A Spiking Graph Convolutional Network for Skeleton Action Recognition via Learning Temporal-Frequency Dynamics (MM'2025)
   - Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives (NeurIPS'2025)
+  - Spiking Heterogeneous Graph Attention Networks (AAAI'2026)
 
 
 </details>
@@ -144,6 +142,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding (NeurIPS'2025)
  - Spike-RetinexFormer: Rethinking Low-light Image Enhancement with Spiking Neural Networks (NeurIPS'2025)
  - SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition (ICCV'2025)
+ - SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition (AAAI'2026)
+ - Spikingformer: A Key Foundation Model for Spiking Neural Networks (AAAI'2026)
 
 </details>
 
@@ -190,6 +190,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection (CVPR'2025)
  - SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain (IJCAI'2025)
  - Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks (NeurIPS'2025)
+ - Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (AAAI'2026)
 
 </details>
 
@@ -237,6 +238,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks (ICML'2025)
  - S2NN: Sub-bit Spiking Neural Networks (NeurIPS'2025)
  - Activity Pruning for Efficient Spiking Neural Networks (NeurIPS'2025)
+ - HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (AAAI'2026)
 
 </details>
 
@@ -277,12 +279,16 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers (NeurIPS'2025)
  - SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility (ICCV'2025)
  - LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models (AAAI'2026)
+ - A Closer Look at Knowledge Distillation in Spiking Neural Network Training (AAAI'2026)
+ - Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers (AAAI'2026)
+ - SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration (AAAI'2026)
+ - Spatial-Frequency Spiking Neural Network for Underwater Object Detection (AAAI'2026)
 
 </details>
 
 ---
 
-### Bio-inspired Neuron Optimization
+### Spiking Neuron Optimization
 
 <details><summary>Click to expand related papers</summary>
 
@@ -297,7 +303,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies (NeurIPS'2023)
  - Temporal-Coded Spiking Neural Networks with Dynamic Firing Threshold: Learning with Event-Driven Backpropagation (ICCV'2023)
  - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (AAAI'2024)
- - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling (AAAI'2024)
+ - TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modeling (AAAI'2024)
  - Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision (ECCV'2024)
  - Learning delays in spiking neural networks using dilated convolutions with learnable spacings (ICLR'2024)
  - High-Performance Temporal Reversible Spiking Neural Networks with $\mathcal{O}$(L) Training Memory and $\mathcal{O}$(1) Inference Cost (ICML'2024)
@@ -311,6 +317,9 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Incorporating the Refractory Period into Spiking Neural Networks through Spike-Triggered Threshold Dynamics (MM'2025)
  - HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses (NeurIPS'2025)
  - Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics (NeurIPS'2025)
+ - Exploring the Potentials of Spiking Neural Networks for Image Deraining (AAAI'2026)
+ - Oligodendrocyte-Driven Spiking Neural Model (AAAI'2026)
+ - Stabilizing Spiking Neurons Through Biologically Inspired Polarization (AAAI'2026)
 
 </details>
 
@@ -353,6 +362,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics (IJCAI'2025)
  - Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (NeurIPS'2025)
  - DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks (AAAI'2026)
+ - TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling (AAAI'2026)
+ - Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (AAAI'2026)
 
 </details>
 
@@ -395,6 +406,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks (CVPR'2024)
  - Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients (CVPR'2025)
  - SPACE: Spike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (NeurIPS'2025)
+ - MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization (AAAI'2026)
+ - Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation (AAAI'2026)
 
 </details>
 
@@ -411,6 +424,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Hebbian learning-based orthogonal projection for continual learning of spiking neural networks (ICLR'2024)
  - ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (AAAI'2025)
  - Self-cross Feature-based Spiking Neural Networks for Efficient Few-shot Learning (ICML'2025)
+ - HLML-SNN: Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (AAAI'2026)
 
 </details>
 
@@ -433,6 +447,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 <details><summary>Click to expand related papers</summary>
 
  - Exploiting Label Skewness for Spiking Neural Networks in Federated Learning (IJCAI'2025)
+ - SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning (AAAI'2026)
 
 </details>
 
@@ -454,6 +469,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment (ICML'2025)
  - Adaptive Fission: Post-training Encoding for Low-latency Spike Neural Networks (NeurIPS'2025)
  - Parallel Training Time-to-First-Spike Spiking Neural Networks (AAAI'2026)
+ - Activation-Wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (AAAI'2026)
+ - Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks (AAAI'2026)
 
 </details>
 
@@ -467,5 +484,7 @@ The survey systematically reviews SNN works published in top conferences, includ
   - Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time (ICML'2025)
   - Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing (IJCAI'2025)
   - STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking (NeurIPS'2025)
+  - I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks (AAAI'2026)
+  - Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis (AAAI'2026)
 
 </details>

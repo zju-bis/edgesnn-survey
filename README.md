@@ -276,6 +276,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes (IJCAI'2025)
  - Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers (NeurIPS'2025)
  - SpikePack: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility (ICCV'2025)
+ - LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models (AAAI'2026)
 
 </details>
 
@@ -315,7 +316,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 
 ---
 
-### Bio-inspired Training Loss Optimization
+### Training Optimization
 
 <details><summary>Click to expand related papers</summary>
 
@@ -332,15 +333,6 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals (NeurIPS'2024)
  - MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks (NeurIPS'2025)
  - Enhanced Self-Distillation Framework for Efficient Spiking Neural Network Training (NeurIPS'2025)
-
-</details>
-
----
-
-### Surrogate Gradient Optimization
-
-<details><summary>Click to expand related papers</summary>
-
  - Training Spiking Neural Networks with Accumulated Spiking Flow (AAAI'2021)
  - Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks (NeurIPS'2021)
  - Sparse Spiking Gradient Descent (NeurIPS'2021)
@@ -360,6 +352,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Training High-Performance Spiking Neural Network by Temporal Model Calibration (ICML'2025)
  - Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics (IJCAI'2025)
  - Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (NeurIPS'2025)
+ - DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks (AAAI'2026)
 
 </details>
 
@@ -460,6 +453,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity (ICML'2025)
  - Efficient Logit-based Knowledge Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment (ICML'2025)
  - Adaptive Fission: Post-training Encoding for Low-latency Spike Neural Networks (NeurIPS'2025)
+ - Parallel Training Time-to-First-Spike Spiking Neural Networks (AAAI'2026)
 
 </details>
 

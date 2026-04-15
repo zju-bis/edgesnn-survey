@@ -239,6 +239,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - S2NN: Sub-bit Spiking Neural Networks (NeurIPS'2025)
  - Activity Pruning for Efficient Spiking Neural Networks (NeurIPS'2025)
  - HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (AAAI'2026)
+ - Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks (ICLR'2026)
 
 </details>
 
@@ -365,6 +366,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling (AAAI'2026)
  - Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (AAAI'2026)
  - CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning (ICLR'2026)
+ - Biologically Plausible Learning via Bidirectional Spike-Based Distillation (ICLR'2026)
 
 </details>
 
@@ -409,6 +411,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SPACE: Spike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (NeurIPS'2025)
  - MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization (AAAI'2026)
  - Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation (AAAI'2026)
+ - Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks (ICLR'2026)
 
 </details>
 
@@ -487,5 +490,6 @@ The survey systematically reviews SNN works published in top conferences, includ
   - STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking (NeurIPS'2025)
   - I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks (AAAI'2026)
   - Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis (AAAI'2026)
+  - PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks (ICLR'2026)
 
 </details>

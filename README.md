@@ -11,7 +11,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 
 ## ✅ Coverage (2025)
 
-- [ ] ICLR 2026  
+- [x] ICLR 2026  
 - [x] AAAI 2026   
 - [ ] CVPR 2026  
 - [ ] MM 2026  
@@ -364,6 +364,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks (AAAI'2026)
  - TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling (AAAI'2026)
  - Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (AAAI'2026)
+ - CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning (ICLR'2026)
 
 </details>
 

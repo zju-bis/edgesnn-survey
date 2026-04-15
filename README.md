@@ -144,6 +144,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition (ICCV'2025)
  - SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition (AAAI'2026)
  - Spikingformer: A Key Foundation Model for Spiking Neural Networks (AAAI'2026)
+ - Pretraining with Re-parametrized Self-Attention: Unlocking Generalization in SNN-Based Neural Decoding Across Time, Brains, and Tasks (ICLR'2026)
+ - Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding (ICLR'2026)
 
 </details>
 
@@ -412,6 +414,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization (AAAI'2026)
  - Timestep-Compressed Attack on Spiking Neural Networks Through Timestep-Level Backpropagation (AAAI'2026)
  - Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks (ICLR'2026)
+ - Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks (ICLR'2026)
+ - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (ICLR'2026)
 
 </details>
 
@@ -475,6 +479,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Parallel Training Time-to-First-Spike Spiking Neural Networks (AAAI'2026)
  - Activation-Wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (AAAI'2026)
  - Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks (AAAI'2026)
+ - SMixer: Rethinking Efficient-Training and Event-Driven SNNs (ICLR'2026)
 
 </details>
 

@@ -148,6 +148,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding (ICLR'2026)
  - 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis (ICLR'2026)
  - Spiking Discrepancy Transformer for Point Cloud Analysis (ICLR'2026)
+ - Neural Dynamics Self-Attention for Spiking Transformers (ICLR'2026)
 
 </details>
 
@@ -244,6 +245,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Activity Pruning for Efficient Spiking Neural Networks (NeurIPS'2025)
  - HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (AAAI'2026)
  - Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks (ICLR'2026)
+ - TP-Spikformer: Token Pruned Spiking Transformer (ICLR'2026)
 
 </details>
 
@@ -378,6 +380,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation (ICLR'2026)
  - Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition (ICLR'2026)
  - Difference Predictive Coding for Training Spiking Neural Networks (ICLR'2026)
+ - Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks (ICLR'2026)
 
 </details>
 
@@ -425,6 +428,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks (ICLR'2026)
  - Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks (ICLR'2026)
  - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (ICLR'2026)
+ - Robust Spiking Neural Networks Against Adversarial Attacks (ICLR'2026)
 
 </details>
 
@@ -443,6 +447,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Self-cross Feature-based Spiking Neural Networks for Efficient Few-shot Learning (ICML'2025)
  - HLML-SNN: Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (AAAI'2026)
  - Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning (ICLR'2026)
+ - SAFA-SNN: Sparsity-Aware On-Device Few-Shot Class-Incremental Learning with Fast-Adaptive Structure of Spiking Neural Network (ICLR'2026)
 
 </details>
 

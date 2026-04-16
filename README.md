@@ -146,6 +146,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Spikingformer: A Key Foundation Model for Spiking Neural Networks (AAAI'2026)
  - Pretraining with Re-parametrized Self-Attention: Unlocking Generalization in SNN-Based Neural Decoding Across Time, Brains, and Tasks (ICLR'2026)
  - Otters: An Energy-Efficient Spiking Transformer via Optical Time-to-First-Spike Encoding (ICLR'2026)
+ - 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis (ICLR'2026)
+ - Spiking Discrepancy Transformer for Point Cloud Analysis (ICLR'2026)
 
 </details>
 
@@ -286,6 +288,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformers (AAAI'2026)
  - SpikingIR: A Novel Converted Spiking Neural Network for Efficient Image Restoration (AAAI'2026)
  - Spatial-Frequency Spiking Neural Network for Underwater Object Detection (AAAI'2026)
+ - Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks (ICLR'2026)
+ - Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models (ICLR'2026)
 
 </details>
 
@@ -323,6 +327,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Exploring the Potentials of Spiking Neural Networks for Image Deraining (AAAI'2026)
  - Oligodendrocyte-Driven Spiking Neural Model (AAAI'2026)
  - Stabilizing Spiking Neurons Through Biologically Inspired Polarization (AAAI'2026)
+ - Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks (ICLR'2026)
+ - A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks (ICLR'2026)
 
 </details>
 
@@ -369,6 +375,9 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Optimization Method for Surrogate Function in Spiking Neural Networks Based on Membrane Potential Distribution (AAAI'2026)
  - CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning (ICLR'2026)
  - Biologically Plausible Learning via Bidirectional Spike-Based Distillation (ICLR'2026)
+ - Advancing Spatiotemporal Representations in Spiking Neural Networks via Parametric Invertible Transformation (ICLR'2026)
+ - Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition (ICLR'2026)
+ - Difference Predictive Coding for Training Spiking Neural Networks (ICLR'2026)
 
 </details>
 
@@ -433,6 +442,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (AAAI'2025)
  - Self-cross Feature-based Spiking Neural Networks for Efficient Few-shot Learning (ICML'2025)
  - HLML-SNN: Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning (AAAI'2026)
+ - Robust Selective Activation with Randomized Temporal K-Winner-Take-All in Spiking Neural Networks for Continual Learning (ICLR'2026)
 
 </details>
 
@@ -480,6 +490,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Activation-Wise Propagation: A One-Timestep Strategy for Spiking Neural Networks (AAAI'2026)
  - Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks (AAAI'2026)
  - SMixer: Rethinking Efficient-Training and Event-Driven SNNs (ICLR'2026)
+ - Towards Lossless Memory-efficient Training of Spiking Neural Networks via Gradient Checkpointing and Spike Compression (ICLR'2026)
 
 </details>
 
@@ -496,5 +507,7 @@ The survey systematically reviews SNN works published in top conferences, includ
   - I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks (AAAI'2026)
   - Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis (AAAI'2026)
   - PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks (ICLR'2026)
+  - Random Spiking Neural Networks are Stable and Spectrally Simple (ICLR'2026)
+  - Fractional-Order Spiking Neural Network (ICLR'2026)
 
 </details>

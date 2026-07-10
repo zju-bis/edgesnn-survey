@@ -9,13 +9,14 @@ The survey systematically reviews SNN works published in top conferences, includ
 
 ---
 
-## ✅ Coverage (2025)
+## ✅ Coverage (2026)
 
 - [x] ICLR 2026  
 - [x] AAAI 2026   
 - [ ] CVPR 2026  
 - [ ] MM 2026  
-- [ ] ICML 2026  
+- [ ] ICML 2026
+- [ ] IJCAI 2026
 - [ ] NeurIPS 2026  
 
 ---

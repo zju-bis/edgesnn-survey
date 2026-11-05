@@ -15,8 +15,8 @@ The survey systematically reviews SNN works published in top conferences, includ
 - [x] AAAI 2026   
 - [ ] CVPR 2026  
 - [ ] MM 2026  
-- [ ] ICML 2026
-- [ ] IJCAI 2026
+- [x] ICML 2026
+- [x] IJCAI 2026
 - [ ] NeurIPS 2026  
 
 ---
@@ -150,6 +150,18 @@ The survey systematically reviews SNN works published in top conferences, includ
  - 3DSMT: A Hybrid Spiking Mamba-Transformer for Point Cloud Analysis (ICLR'2026)
  - Spiking Discrepancy Transformer for Point Cloud Analysis (ICLR'2026)
  - Neural Dynamics Self-Attention for Spiking Transformers (ICLR'2026)
+ - SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding (ICML'2026)
+ - SMM Transformer: Leveraging SNNs for Multimodal Tasks (ICML'2026)
+ - Spike-HTR: Spiking Transformer for Handwritten Text Recognition (ICML'2026)
+ - TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers (ICML'2026)
+ - SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing (ICML'2026)
+ - A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series (ICML'2026)
+ - SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks (ICML'2026)
+ - SpikingLM: Towards Fully Spiking Language Model (ICML'2026)
+ - Positional Encoding for Spiking Transformers (ICML'2026)
+ - SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation (ICML'2026)
+ - Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity (ICML'2026)
+ - SAFformer: Improving Spiking Transformer via Active Predictive Filtering (IJCAI'2026)
 
 </details>
 
@@ -167,6 +179,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL (AAAI'2025)
  - UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks (AAAI'2025)
  - Efficient Spiking Point Mamba for Point Cloud Analysis (ICCV'2025)
+ - LIF Recurrent Memory Enables Long-Horizon Spiking Computation (ICML'2026)
 
 </details>
 
@@ -197,6 +210,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain (IJCAI'2025)
  - Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks (NeurIPS'2025)
  - Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (AAAI'2026)
+ - Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras (ICML'2026)
 
 </details>
 
@@ -247,6 +261,9 @@ The survey systematically reviews SNN works published in top conferences, includ
  - HardF-SNN: Hardware-Friendly Quantization for Spiking Neural Networks with Efficient Integer-Arithmetic-Only Inference (AAAI'2026)
  - Cannistraci-Hebb Training on Ultra-Sparse Spiking Neural Networks (ICLR'2026)
  - TP-Spikformer: Token Pruned Spiking Transformer (ICLR'2026)
+ - UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks (ICML'2026)
+ - Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices (ICML'2026)
+ - Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning (ICML'2026)
 
 </details>
 
@@ -293,6 +310,10 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Spatial-Frequency Spiking Neural Network for Underwater Object Detection (AAAI'2026)
  - Many Eyes, One Mind: Temporal Multi-Perspective and Progressive Distillation for Spiking Neural Networks (ICLR'2026)
  - Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models (ICLR'2026)
+ - Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers (ICML'2026)
+ - Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback (ICML'2026)
+ - Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN-SNN Conversion (ICML'2026)
+ - Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks (IJCAI'2026)
 
 </details>
 
@@ -332,6 +353,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Stabilizing Spiking Neurons Through Biologically Inspired Polarization (AAAI'2026)
  - Beyond Linear Processing: Dendritic Bilinear Integration in Spiking Neural Networks (ICLR'2026)
  - A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks (ICLR'2026)
+ - UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra (ICML'2026)
+ - Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model (ICML'2026)
 
 </details>
 
@@ -382,6 +405,11 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition (ICLR'2026)
  - Difference Predictive Coding for Training Spiking Neural Networks (ICLR'2026)
  - Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks (ICLR'2026)
+ - Training Deep Spiking Neural Networks without Normalization (ICML'2026)
+ - Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch (ICML'2026)
+ - AdaS: Adaptive Gradient Descent for Spiking Transformers (ICML'2026)
+ - Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks (ICML'2026)
+ - A2SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks (ICML'2026)
 
 </details>
 
@@ -430,6 +458,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Breaking Gradient Temporal Collinearity for Robust Spiking Neural Networks (ICLR'2026)
  - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (ICLR'2026)
  - Robust Spiking Neural Networks Against Adversarial Attacks (ICLR'2026)
+ - Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation (ICML'2026)
 
 </details>
 
@@ -515,5 +544,7 @@ The survey systematically reviews SNN works published in top conferences, includ
   - PredNext: Explicit Cross-View Temporal Prediction for Unsupervised Learning in Spiking Neural Networks (ICLR'2026)
   - Random Spiking Neural Networks are Stable and Spectrally Simple (ICLR'2026)
   - Fractional-Order Spiking Neural Network (ICLR'2026)
+  - Frequency Matching in Spiking Neural Networks for mmWave Sensing (ICML'2026)
+  - SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks (ICML'2026)
 
 </details>

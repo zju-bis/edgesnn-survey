@@ -13,7 +13,7 @@ The survey systematically reviews SNN works published in top conferences, includ
 
 - [x] ICLR 2026  
 - [x] AAAI 2026   
-- [ ] CVPR 2026  
+- [x] CVPR 2026  
 - [ ] MM 2026  
 - [x] ICML 2026
 - [x] IJCAI 2026
@@ -162,6 +162,10 @@ The survey systematically reviews SNN works published in top conferences, includ
  - SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation (ICML'2026)
  - Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity (ICML'2026)
  - SAFformer: Improving Spiking Transformer via Active Predictive Filtering (IJCAI'2026)
+ - SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks (CVPR'2026)
+ - Temporal Interaction in Spiking Transformers with Multi-Delay Mixer (CVPR'2026)
+ - SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network (CVPR'2026)
+ - SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking (CVPR'2026)
 
 </details>
 
@@ -180,6 +184,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks (AAAI'2025)
  - Efficient Spiking Point Mamba for Point Cloud Analysis (ICCV'2025)
  - LIF Recurrent Memory Enables Long-Horizon Spiking Computation (ICML'2026)
+ - Spike-driven Discrete Aggregation for Event-based Object Detection (CVPR'2026)
 
 </details>
 
@@ -211,6 +216,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks (NeurIPS'2025)
  - Spiking-Aided Neural Architecture for Efficient and Robust WiFi Sensing (AAAI'2026)
  - Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras (ICML'2026)
+ - Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features (CVPR'2026)
 
 </details>
 
@@ -355,6 +361,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks (ICLR'2026)
  - UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra (ICML'2026)
  - Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model (ICML'2026)
+ - Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses (CVPR'2026)
 
 </details>
 
@@ -429,6 +436,8 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation (IJCAI'2025)
  - ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks (IJCAI'2025)
  - Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for Imbalanced Multi-Modal Learning (MM'2025)
+ - Sparsely Timing the Change: A Spiking Temporal Framework for Remote Sensing Interpretation (CVPR'2026)
+ - Seeing Through Blur: Tackling Defocus in Spike-Based Imaging (CVPR'2026)
 
 </details>
 
@@ -459,6 +468,10 @@ The survey systematically reviews SNN works published in top conferences, includ
  - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (ICLR'2026)
  - Robust Spiking Neural Networks Against Adversarial Attacks (ICLR'2026)
  - Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation (ICML'2026)
+ - Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks (CVPR'2026)
+ - Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks (CVPR'2026)
+ - On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks (CVPR'2026)
+ - Robust Spiking Neural Networks by Temporal Mutual Information (CVPR'2026)
 
 </details>
 
@@ -546,5 +559,6 @@ The survey systematically reviews SNN works published in top conferences, includ
   - Fractional-Order Spiking Neural Network (ICLR'2026)
   - Frequency Matching in Spiking Neural Networks for mmWave Sensing (ICML'2026)
   - SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks (ICML'2026)
+  - Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons (CVPR'2026)
 
 </details>

@@ -417,6 +417,7 @@ The survey systematically reviews SNN works published in top conferences, includ
  - AdaS: Adaptive Gradient Descent for Spiking Transformers (ICML'2026)
  - Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks (ICML'2026)
  - A2SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks (ICML'2026)
+ - Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization (ECCV'2026)
 
 </details>
 
